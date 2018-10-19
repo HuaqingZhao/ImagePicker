@@ -1,0 +1,10 @@
+D:\Projects\Studio\ImagePicker\ImagePicker\bin\Debug\ImagePicker.exe.config
+D:\Projects\Studio\ImagePicker\ImagePicker\bin\Debug\ImagePicker.exe
+D:\Projects\Studio\ImagePicker\ImagePicker\bin\Debug\ImagePicker.pdb
+D:\Projects\Studio\ImagePicker\ImagePicker\obj\Debug\ImagePicker.csprojResolveAssemblyReference.cache
+D:\Projects\Studio\ImagePicker\ImagePicker\obj\Debug\ImagePicker.Form1.resources
+D:\Projects\Studio\ImagePicker\ImagePicker\obj\Debug\ImagePicker.Properties.Resources.resources
+D:\Projects\Studio\ImagePicker\ImagePicker\obj\Debug\ImagePicker.csproj.GenerateResource.Cache
+D:\Projects\Studio\ImagePicker\ImagePicker\obj\Debug\ImagePicker.exe
+D:\Projects\Studio\ImagePicker\ImagePicker\obj\Debug\ImagePicker.pdb
+D:\Projects\Studio\ImagePicker\ImagePicker\bin\Debug\Images.xml

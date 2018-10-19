@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <images>
+    <image url="https://inews.gtimg.com/newsapp_bt/0/5866633952/1000" status="1" savePath="" />
+    <image url="https://inews.gtimg.com/newsapp_bt/0/5866633600/1000" status="1" savePath="" />
+    <image url="https://inews.gtimg.com/newsapp_bt/0/5866633924/1000" status="1" savePath="D:\Projects\Studio\ImagePicker\ImagePicker\bin\Debug\Images\2d7e04cc-d120-4b87-acfb-7d7535f5d95f.jpeg" />
+    <image url="https://inews.gtimg.com/newsapp_bt/0/5866633908/1000" status="0" savePath="" />
+    <image url="https://inews.gtimg.com/newsapp_bt/0/5866634387/1000" status="0" savePath="" />
+    <image url="https://inews.gtimg.com/newsapp_bt/0/5866635170/1000" status="0" savePath="" />
+  </images>
+</root>
